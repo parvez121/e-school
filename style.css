@@ -1,0 +1,103 @@
+.logo{
+    width: 200px;
+    height: 59px;
+}
+header{
+    background-color:#F0FFF0;
+    ;
+}
+.signBtn a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.signBtn{
+    border: none;
+    background-color: #21B573;
+    padding: 6px 25px;
+    border-radius: 40px;
+}
+#navbarNav ul li a{
+    font-size: 15px;
+    color: black;
+}
+.banner-img img{
+    width: 554px;
+    height: 346px;
+}
+.banner-color, .nav-color{
+    background-color: #F0FFF0;
+    ;
+}
+.banner-title{
+    font-weight: 600;
+}
+p{
+    line-height: 2em;
+    font-weight: normal;
+    font-size: 16px;
+    color: #585859;
+}
+.single-service img{
+    height: 80px;
+}
+.course-info{
+    margin-bottom: 0;
+}
+.course-info img{
+    height: 20px;
+}
+.course-info p{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+.courses .card{
+    padding: 12px;
+    border:0 !important;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+
+
+footer li{
+    padding-top: 10px;
+    list-style: none;
+    color:#FFFFFF;
+    ;
+}
+
+
+.footer-title{
+    margin-left: 30px;
+    color: #FFFFFF;
+}
+.footer-bg{
+    background-color: black;
+}
+footer p{
+    color: white;
+}
+.copy-right p{
+    font-size: 16px;
+    color:#CDCDCD;
+    ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
